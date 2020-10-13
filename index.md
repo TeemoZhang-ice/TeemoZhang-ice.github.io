@@ -25,7 +25,7 @@ E-mail：1048311847@qq.com
 
 
 
-  <p>網頁學習選項</p>
+  <p>網頁學習</p>
 
   <li> <a href="https://zhuanlan.zhihu.com/p/72907840">隱藏內容，需要密碼</a> </li>
 
@@ -39,7 +39,7 @@ E-mail：1048311847@qq.com
   <li> <a href="https://zhuanlan.zhihu.com/p/85899661">生日祝福 教程</a> </li>
 
 
-  <p>返回菜單選項</p>
+  <p>返回菜單</p>
 
   <li> <a href="https://teemozhang-ice.github.io/">返回主页</a> </li>
   <li> <a href="https://github.com/TeemoZhang-ice/LoveTree/blob/master/config.js">返回GitHub</a> </li>
